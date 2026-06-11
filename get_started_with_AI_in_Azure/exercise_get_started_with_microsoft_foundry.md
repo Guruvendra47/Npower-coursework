@@ -403,14 +403,6 @@ You:
 
 ---
 
-
-
-## Screenshot
-
-![Ask Anton](images/22-ask-anton.png)
-
----
-
 # Clean Up
 
 After completing the lab:
