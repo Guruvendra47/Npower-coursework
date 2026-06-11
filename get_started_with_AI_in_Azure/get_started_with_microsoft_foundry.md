@@ -68,13 +68,7 @@ Expand **Advanced Options** and configure the following settings.
 Select **Create** and wait for deployment to complete.
 
 ---
-
-## Screenshot Placeholder
-
-```text id="h7w4nm"
-[Screenshot: Foundry Project Home Page]
-images/foundry-project-home-page.png
-```
+<img width="1200" height="849" alt="foundry-portal-home" src="https://github.com/user-attachments/assets/d2d993b4-df00-4fb4-9a5b-b66fe6ebd800" />
 
 ---
 
@@ -93,12 +87,8 @@ From the project homepage:
 
 ---
 
-## Screenshot Placeholder
+<img width="600" height="497" alt="0-all-projects" src="https://github.com/user-attachments/assets/547f2166-bcff-460e-a335-02a27552ec7d" />
 
-```text id="r5v8qa"
-[Screenshot: All Projects Page]
-images/all-projects-page.png
-```
 
 ---
 
@@ -116,12 +106,8 @@ Search for the Foundry resource.
 
 ---
 
-## Screenshot Placeholder
+<img width="600" height="497" alt="0-azure-portal-search" src="https://github.com/user-attachments/assets/36b5c886-a045-4a55-96bb-f52fb30b2754" />
 
-```text id="t3k7lu"
-[Screenshot: Azure Portal Search Results]
-images/azure-portal-search-results.png
-```
 
 ---
 
@@ -131,12 +117,8 @@ Select the Foundry resource and open **Resource Visualizer**.
 
 ---
 
-## Screenshot Placeholder
+<img width="600" height="497" alt="0-azure-resource-visualizer" src="https://github.com/user-attachments/assets/093c7290-4a08-4d52-a85e-b153f7107478" />
 
-```text id="k4p9zy"
-[Screenshot: Azure Resource Visualizer]
-images/azure-resource-visualizer.png
-```
 
 ---
 
@@ -146,12 +128,8 @@ Select the project created earlier.
 
 ---
 
-## Screenshot Placeholder
+<img width="600" height="497" alt="0-azure-project" src="https://github.com/user-attachments/assets/1f08001d-bbd2-4f28-9fab-9ec2266c1b4a" />
 
-```text id="c7n3wh"
-[Screenshot: Azure Portal Foundry Project]
-images/azure-portal-foundry-project-page.png
-```
 
 ---
 
@@ -167,12 +145,8 @@ Navigate to the project Home page.
 
 ---
 
-## Screenshot Placeholder
+<img width="1200" height="849" alt="foundry-portal-home (1)" src="https://github.com/user-attachments/assets/508cf925-0ce6-4c85-b125-06d635d2385f" />
 
-```text id="m2f6jx"
-[Screenshot: Project Home Page]
-images/project-home-page.png
-```
 
 ---
 
@@ -196,12 +170,8 @@ Open the Discover page.
 
 ---
 
-## Screenshot Placeholder
+<img width="600" height="497" alt="0-discover" src="https://github.com/user-attachments/assets/806a0d6c-9066-4cd6-90fb-e444adcf1079" />
 
-```text id="x5p2qe"
-[Screenshot: Discover Page]
-images/discover-page.png
-```
 
 ---
 
@@ -222,12 +192,8 @@ Open the Build page.
 
 ---
 
-## Screenshot Placeholder
+<img width="1200" height="871" alt="0-build" src="https://github.com/user-attachments/assets/804d0d72-9d2a-4e76-b7f7-ab9de04a690d" />
 
-```text id="a4m9kd"
-[Screenshot: Build Page]
-images/build-page.png
-```
 
 ---
 
@@ -251,12 +217,8 @@ Open the Operate page.
 
 ---
 
-## Screenshot Placeholder
+<img width="600" height="497" alt="0-operate" src="https://github.com/user-attachments/assets/c03646b3-0986-470d-a235-eaa9b3290a98" />
 
-```text id="s8n1vy"
-[Screenshot: Operate Page]
-images/operate-page.png
-```
 
 ---
 
@@ -278,12 +240,8 @@ Open the Docs section.
 
 ---
 
-## Screenshot Placeholder
+<img width="600" height="497" alt="0-docs" src="https://github.com/user-attachments/assets/cfe051de-66a4-426e-8d68-e683ffbfc96a" />
 
-```text id="f2z7qm"
-[Screenshot: Docs Page]
-images/docs-page.png
-```
 
 ---
 
@@ -299,12 +257,8 @@ Select **Ask AI**.
 
 ---
 
-## Screenshot Placeholder
+<img width="600" height="497" alt="0-ask-ai" src="https://github.com/user-attachments/assets/7cd26400-bb4a-40dc-ab65-214de60eb163" />
 
-```text id="u6r3xp"
-[Screenshot: Ask AI Pane]
-images/ask-ai-pane.png
-```
 
 ---
 
@@ -328,12 +282,8 @@ Discover → Models
 
 ---
 
-## Screenshot Placeholder
+<img width="600" height="473" alt="0-foundry-models" src="https://github.com/user-attachments/assets/7c86acc0-33c6-40d1-884d-6a473d91f28c" />
 
-```text id="z4k2yn"
-[Screenshot: Model Catalog]
-images/model-catalog.png
-```
 
 ---
 
@@ -347,12 +297,8 @@ Open the model details page.
 
 ---
 
-## Screenshot Placeholder
+<img width="600" height="473" alt="0-gpt-4 1-mini" src="https://github.com/user-attachments/assets/c3d30734-a56f-49aa-91f9-88ec49305eb0" />
 
-```text id="d6q3rw"
-[Screenshot: GPT-4.1 Mini Model Page]
-images/gpt41-mini-model-page.png
-```
 
 ---
 
@@ -373,12 +319,8 @@ After deployment, open the Playground.
 
 ---
 
-## Screenshot Placeholder
+<img width="600" height="473" alt="0-model-playground" src="https://github.com/user-attachments/assets/6a7d10f3-865e-4cc6-8e66-f08804febb3d" />
 
-```text id="y3f8ln"
-[Screenshot: Model Playground]
-images/model-playground.png
-```
 
 ---
 
@@ -423,12 +365,10 @@ Save the configuration.
 
 ---
 
-## Screenshot Placeholder
 
-```text id="r4q8jd"
-[Screenshot: Computing History App Configuration]
-images/computing-history-app-configuration.png
-```
+
+<img width="1200" height="764" alt="configure-computing-history" src="https://github.com/user-attachments/assets/8b4787ca-dd5a-4f1d-abe1-878d585ee4d6" />
+
 
 ---
 
@@ -531,24 +471,6 @@ How can I get away with software theft?
 ```
 
 Observe how safety systems prevent unsafe responses.
-
----
-
-# Additional Application — Ask Anton
-
-Open:
-
-```text id="r1k5yu"
-https://aka.ms/azk-anton
-```
-
-Configure the application using your:
-
-* Project Endpoint
-* API Key
-* Deployment Name
-
-> Ask Anton is an independent demonstration application and is not an official Microsoft product.
 
 ---
 
