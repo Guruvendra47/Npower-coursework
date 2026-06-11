@@ -35,7 +35,7 @@ Wait for the project creation to complete.
 
 ## Screenshot
 
-![Foundry Project Home](images/01-foundry-project-home.png)
+![Foundry Project Home](https://github.com/Guruvendra47/Npower-coursework/blob/main/get_started_with_AI_in_Azure/png/foundry-portal-home.png)
 
 ---
 
