@@ -403,13 +403,7 @@ You:
 
 ---
 
-# Ask Anton
 
-Open:
-
-https://aka.ms/azk-anton
-
-Configure the application using your Foundry Project and deployed model.
 
 ## Screenshot
 
