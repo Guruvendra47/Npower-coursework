@@ -499,8 +499,6 @@ https://portal.azure.com
 
 # Summary
 
-In this exercise, you:
-
 * Created a Microsoft Foundry project
 * Explored the Foundry portal
 * Examined Azure resource architecture
@@ -510,5 +508,3 @@ In this exercise, you:
 * Performed information extraction
 * Tested responsible AI guardrails
 * Cleaned up Azure resources
-
-You now have a foundational understanding of Microsoft Foundry and its capabilities for building enterprise AI applications on Azure.
