@@ -1,6 +1,6 @@
 CustomerID,name,age,city,signup_date,purchase_amount,membership
 101,Alice Smith,25,Toronto,2023-01-15,250.5,Gold
-102,bob jones,34,Toronto,2023-02-20,89.0,Silver
+102,Bob Jones,34,Toronto,2023-02-20,89.0,Silver
 103,Charlie Brown,36,Vancouver,2023-03-10,430.0,Gold
 104,David Lee,45,Montreal,2023-04-05,245.0,Bronze
 105,Eva Green,29,Calgary,2023-05-18,120.75,Silver
